@@ -2,6 +2,7 @@
 ## Song Recommender System
 Checkout the app at : https://song-reco.herokuapp.com/
 
+* Refer to the report [report](docs/report.pdf) for details on algorithm and dataset.
 * This project is a popularity based song recommender system.
 * Recommendations are made based on:
   * Item-Based Collaborative Filtering

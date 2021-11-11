@@ -1,4 +1,3 @@
-*pdf
 /old_data
 new_data/track_list.csv
 new_data/song_features.csv
@@ -7,3 +6,6 @@ new_data/global_ranks.csv
 new_data/cleaned_ranks.csv
 new_data/borda_counts.csv
 assets/typography.css
+.vscode
+.idea
+__pycache__
